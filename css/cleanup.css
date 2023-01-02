@@ -1,1 +1,22 @@
 /* write your override styles here */
+#wall .tag-1 {
+  display: none;
+  z-index: 4;
+  height: 900px;
+  width: 300px;
+}
+div#wall #tag-2{
+    display: none;
+    z-index: 10;
+    height: 900px;
+    width: 300px;
+}
+#wall #tag-3{
+    display: none;
+}
+#wall #tag-4{
+    display: none;
+}
+#wall #tag-5{
+    display: none;
+}
